@@ -1,3 +1,3 @@
-# test-repo
+# open-layers-map
 
 This is a demo.

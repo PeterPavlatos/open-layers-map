@@ -1,0 +1,27 @@
+{
+  "name": "open-layers-map",
+  "version": "1.0.0",
+  "description": "OpenLayers map.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterPavlatos/open-layers-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterPavlatos/open-layers-map/issues"
+  },
+  "homepage": "https://github.com/PeterPavlatos/open-layers-map#readme",
+  "dependencies": {
+    "ol": "^5.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
