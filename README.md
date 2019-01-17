@@ -1,3 +1,3 @@
 # open-layers-map
 
-This is a demo.
+Simple Open layers map with popup on mouseclick.
